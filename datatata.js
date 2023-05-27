@@ -1,8 +1,8 @@
 console.log("Ya estamos mandando fruta")
 console.log(`
 Instrucciones
-1. crear una carpeta
-2. crear el repositorio local
-3. crear el ropo remoto
-4. crear subir todo
+1. crear app
+2. crear funciones
+3. crear el index
+4. crear data
 `)
